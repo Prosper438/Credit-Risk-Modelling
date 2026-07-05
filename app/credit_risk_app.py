@@ -21,7 +21,7 @@ st.set_page_config(
 # ─────────────────────────────────────────────
 @st.cache_resource
 def train_model():
-    df = pd.read_csv("german_credit_data.csv")
+    df = pd.read_csv("data/german_credit_data.csv")
 
     # Drop unnamed column
     df = df.drop(columns=[col for col in df.columns if 'Unnamed' in col])
