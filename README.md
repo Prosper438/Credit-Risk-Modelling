@@ -111,6 +111,8 @@ streamlit     — web application
 ```
 
 ---
+## Live App
+🚀 [Click here to use the app](https://credit-risk-modelling-5o8zntcthfhdcncgaahffr.streamlit.app/)
 
 ## Author
 **Prosper Amedu**
